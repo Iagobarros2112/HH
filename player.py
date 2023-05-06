@@ -6,7 +6,7 @@ from pygame import mixer
 
 root = Tk()
 root.title("IAGO MUSIC PLAYER")
-root.geometry("485x700+290+10")
+root.geometry("700x700+290+10")
 root.configure(background='#333333')
 root.resizable(False, False)
 mixer.init()
